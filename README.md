@@ -1,7 +1,7 @@
 # Ninjago Coder Readme
 
 ## 🚀 About Me
-I am NinjagoCoder my name is inspired by NinjagoCoder
+I am NinjagoCoder my name is inspired by Ninjago.
 i Specialize in Web development and wish to someday become a full stack developer.
 
 
